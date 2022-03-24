@@ -5,5 +5,16 @@ div {
 img {
     height: auto;
     width: 400px;
-    
+}
+
+.za,
+.sup,
+.ult {
+    font-size: 40px;
+    font-family: "Copperplate", Times, serif;
+    background-color: rgb(231, 157, 59);
+}
+
+.ult {
+    object-position: right;
 }
