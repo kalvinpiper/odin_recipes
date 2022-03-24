@@ -1,5 +1,9 @@
-.img .logo {
+div {
+    text-align: center;
+}
+
+img {
     height: auto;
     width: 400px;
-    object-position: center top;
+    
 }
