@@ -7,14 +7,15 @@ img {
     width: 400px;
 }
 
-.za,
-.sup,
-.ult {
-    font-size: 40px;
-    font-family: "Copperplate", Times, serif;
-    background-color: rgb(231, 157, 59);
-}
-
-.ult {
-    object-position: right;
+.button--za,
+.button--sup,
+.button--ult {
+    background-color: goldenrod;
+    padding: 1rem 2rem;
+    border-radius: 0.2em;
+    box-shadow: 0 0.05em 0.25em 0 rgb(0 0 0 / 50%);
+    letter-spacing: 0.2px;
+    color: black;
+    display: inline-block;
+    font-size: 24px
 }
