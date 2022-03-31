@@ -10,6 +10,7 @@ img {
 .button--za,
 .button--sup,
 .button--ult {
+    text-decoration: none;
     background-color: goldenrod;
     padding: 1rem 2rem;
     border-radius: 0.2em;
@@ -17,5 +18,16 @@ img {
     letter-spacing: 0.2px;
     color: black;
     display: inline-block;
-    font-size: 24px
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.button--za {
+    position: absolute;
+    left: 125px;
+}
+
+.button--ult {
+    position: absolute;
+    right: 125px;
 }
