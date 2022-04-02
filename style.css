@@ -22,12 +22,17 @@ img {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.button--za {
-    position: absolute;
-    left: 125px;
+.button--sup {
+    position: static;
+    margin: 120px;
 }
 
 .button--ult {
-    position: absolute;
-    right: 125px;
+    position: static;
+    margin: 120px;
+}
+
+.button--za {
+    position: static;
+    margin: 120px;
 }
