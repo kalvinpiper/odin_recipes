@@ -7,6 +7,10 @@ img {
     width: 400px;
 }
 
+.bg {
+    background-size: cover;
+}
+
 .button--za,
 .button--sup,
 .button--ult {
